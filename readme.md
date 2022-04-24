@@ -1,5 +1,6 @@
 ## Smart Health Card
-  -Type: A Web Application
+  - Type: A Web Application
+  - Category/Domain: Health Sector
 
 ### Idea: To create a smart health card 
  - for knowing medical history of a patient with his Health Card
