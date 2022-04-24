@@ -1,7 +1,6 @@
 ## Smart Health Card
 
 ### Idea: To create a smart health card 
- - When accidents happens
  - for knowing medical history of a patient with his Health Card
  - for knowing the past disease of a patient and name of doctor and hospital where his treatment has taken place.
  - Whenever an accident happens to someone, then in hospital he/she or his/her relative has to fill in all details, and then operations and treatments take place. But from this card, the patient  has not have to fill in his details, just provide the card to the receptionist or scan the card through a QR code and all the details will be provided to the hospital.
