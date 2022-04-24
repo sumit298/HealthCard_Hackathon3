@@ -13,7 +13,7 @@
 }
 
 .Base {
-  background: #ccc;
+  /* background: #ccc; */
   height: 378px;
   width: 595px;
   border-radius: 15px;
@@ -541,6 +541,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 90vh;
+  padding-top: 10rem !important;
   /* background: url("../img/hero-bg.jpg") top center; */
   background-size: cover;
   margin-bottom: -200px;
